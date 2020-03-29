@@ -1,0 +1,71 @@
+1: Addition.
+2: Subtraction.
+3: Multiplication.
+4: Divide.
+5: Remainder.
+6: Exit.
+
+Enter your choice for corresponding number: 1
+Enter first number: 5
+Enter second number: 5
+Result is: 10.0
+
+1: Addition.
+2: Subtraction.
+3: Multiplication.
+4: Divide.
+5: Remainder.
+6: Exit.
+
+Enter your choice for corresponding number: 2
+Enter first number: 10
+Enter second number: 5
+Result is: 5.0
+
+1: Addition.
+2: Subtraction.
+3: Multiplication.
+4: Divide.
+5: Remainder.
+6: Exit.
+
+Enter your choice for corresponding number: 3
+Enter first number: 2
+Enter second number: 4
+Result is: 8.0
+
+1: Addition.
+2: Subtraction.
+3: Multiplication.
+4: Divide.
+5: Remainder.
+6: Exit.
+
+Enter your choice for corresponding number: 4
+Enter first number: 10
+Enter second number: 2
+Result is: 5.0
+
+1: Addition.
+2: Subtraction.
+3: Multiplication.
+4: Divide.
+5: Remainder.
+6: Exit.
+
+Enter your choice for corresponding number: 4
+Enter first number: 10
+Enter second number: 0
+Result is: Infinity
+
+1: Addition.
+2: Subtraction.
+3: Multiplication.
+4: Divide.
+5: Remainder.
+6: Exit.
+
+Enter your choice for corresponding number: 6
+
+ exit
+sssss
